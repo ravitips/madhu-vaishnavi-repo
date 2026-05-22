@@ -13,3 +13,6 @@ print(a*b)
 a=33
 b=3
 print(a/b)
+
+a=3
+print(a^2)
