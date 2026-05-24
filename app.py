@@ -5,3 +5,7 @@ print(a+b)
 a=4
 b=3
 print(a-b)
+
+a=41
+b=32
+print(a*b)
