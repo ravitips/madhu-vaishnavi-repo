@@ -19,3 +19,5 @@ print(a^2)
 
 a=6
 print(a^3)
+
+thanks
