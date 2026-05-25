@@ -16,3 +16,6 @@ print(a^b)
 
 a=5
 print(a^2)
+
+a=6
+print(a^3)
