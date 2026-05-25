@@ -9,3 +9,7 @@ print(a-b)
 a=41
 b=32
 print(a*b)
+
+a=23
+b=2
+print(a^b)
